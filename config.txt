@@ -1,0 +1,2 @@
+username=SNAP-USERNAME
+password=SNAP-PASSWORD
